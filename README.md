@@ -129,13 +129,6 @@ Supported `-Name` values:
 - Keep your final `SOUL.md` concise and high-signal
 - Fork these templates into a personal or team-specific version over time
 
-## Why this works well as a GitHub project
-
-- Clear folder structure
-- A useful number of templates out of the box
-- English-ready prompt files
-- Simple installation script
-- Easy to extend with more domain-specific templates later
 
 
 
