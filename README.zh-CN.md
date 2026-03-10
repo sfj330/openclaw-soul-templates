@@ -129,13 +129,6 @@ powershell -ExecutionPolicy Bypass -File .\scripts\install-soul.ps1 -Name dev-de
 - 最终用于长期协作的 `SOUL.md` 应尽量短而清晰
 - 可以在这些模板基础上继续派生出你自己的私人版本
 
-## 为什么适合放到 GitHub
-
-- 目录结构清晰
-- 模板数量充足
-- 文件命名统一
-- 提供了安装脚本
-- 方便继续扩展更多岗位版和行业版模板
 
 
 
