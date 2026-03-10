@@ -33,11 +33,6 @@ Most templates follow the same backbone:
 
 This makes the repository easier to understand, compare, and extend.
 
-## Why English-first
-
-The templates in this project are written in English on purpose.
-
-For OpenClaw-style steering files, English instructions tend to be more consistent across models, easier to share publicly, and easier to reuse in mixed-language environments. Users can still localize or personalize the final `SOUL.md` later if needed.
 
 ## Who this is for
 
